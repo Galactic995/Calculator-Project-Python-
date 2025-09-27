@@ -33,7 +33,7 @@ elif operation == "**" or operation == "power" or operation == "pow":
 elif operation == "square root" or operation == "sqrt":
     result = num1 ** 0.5
 
-#if the user put anything other than the specified operation an error will appear
+#if the user puts anything other than the specified operations an error will appear
 else:
     result = print("invalid operation")
 
